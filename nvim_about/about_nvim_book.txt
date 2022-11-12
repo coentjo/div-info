@@ -1,0 +1,20 @@
+# Feedback on ebook
+
+Thanks for the book! I used 'standard vim' for years, without plugins, stopped using it because of new editors make using git easy, while I did not know how to do that an easy way from vim. Now I want to dive into it again, and your book helps me doing that. During working through it I collected somem remarks. 
+
+## Chapter 2: Deeper Dive
+'Open the configuriation file ...' : maybe some explanation how to do this? I mean: most simple is with a different editor, but with nvim would be nice, but then you have to explain how. I tried to do it using the $MYVIMRC but that only works from within vi, so I ended up starting vi, used ':echo $MYVIMRC', remembered the path, exited vi, starting it anew with the desired file. There's probably an easier way, loading a file when already in vi. 
+
+In section Plugins, after installing colorschemes, (by the way the OceanicNext was not found in my system) I saw the PlugUpdate mentioned: I tried it, then had to press 'q' to get in 'normal' mode again (which I did not know at that time). Maybe add a remark about that. 
+
+
+## "Copy-pasting and Registers"
+It says: "*p" to copy from system clipboard, but 'closing' double quote '"' does not belong there. 
+
+Telling the reader to use the ':help' is a good idea. I opened help when suggested in the text, now I have a split screen and don't know how to close it: <esc> or 'q' does not work... I opened ':help help', then searched for 'close' ('/close'), found ':helpc[lose]'.
+
+
+bla bla bnla {and more bla, to be changed}, and then "normal" bla again. 
+bla bla bnla {and more bla, to be changed}, and then "normal" bla again. 
+bla bla bnla {and more bla, to be changed}, and then "normal" bla again. 
+bla bla bnla {and more bla, to be changed}, and then "normal" bla again. 

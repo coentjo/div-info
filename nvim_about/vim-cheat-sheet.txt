@@ -1,0 +1,32 @@
+# [n[eo]]vi[m] cheat sheet
+
+<esc>	-	back to normal mode
+:	-	go to command mode
+i	-	go to insert mode
+
+/text	-	search for 'text'
+fc	-	find character c
+.	-	repeat last command
+n	-	repeat last search
+
+## Registers
+"ay	-	copy into register 'a'
+"ap	-	paste from register 'a'
+"%p	-	register '%' always stores the filename
+"/p	-	register '/' always stores the last search pattern;
+		 or add to config:  set clipboard^=unnamed
+## Plugins
+
+
+
+cin]	-	change in next ']'
+ca,	-	delete a comma seperated item from the list
+
+
+
+Only consider targets fully visible on screen:
+Only consider targets fully visible on screen:
+
+Only consider targets fully visible on screen:
+
+
